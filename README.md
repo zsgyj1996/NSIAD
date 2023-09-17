@@ -1,4 +1,4 @@
-### NSIAD : An Efficient Multivariate Time Series Anomaly Detection Framework for Cyber-Physical Systems
+# NSIAD : An Efficient Multivariate Time Series Anomaly Detection Framework for Cyber-Physical Systems
 
 
 ## Getting Started
